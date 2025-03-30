@@ -6,9 +6,6 @@
   <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Animated GIF" width="500">
 </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badavatharjun" alt="badavatharjun" /></a> </p>
-
 - 🔭 I’m currently working on **FULL STACK DEVELOPMENT PROJECTS**
 
 - 🌱 I’m currently learning **Data structure and ML**
